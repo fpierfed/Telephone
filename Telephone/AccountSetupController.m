@@ -92,6 +92,11 @@ NSString * const AKAccountSetupControllerDidAddAccountNotification = @"AKAccount
     accountDict[kUseProxy] = @NO;
     accountDict[kProxyHost] = @"";
     accountDict[kProxyPort] = @0;
+    accountDict[kTransport] = kTransportUDP;
+    accountDict[kIPVersion] = kIPVersion4;
+    accountDict[kUpdateContactHeader] = @YES;
+    accountDict[kUpdateViaHeader] = @YES;
+    accountDict[kUpdateSDP] = @YES;
     
     NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
     NSMutableArray *savedAccounts = [NSMutableArray arrayWithArray:[defaults arrayForKey:kAccounts]];
