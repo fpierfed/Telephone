@@ -3663,7 +3663,6 @@
 					};
 					8AE706221D491C210060FF4F = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = B5WSA37RY8;
 						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -3676,7 +3675,6 @@
 						};
 					};
 					8D1107260486CEB800E47090 = {
-						DevelopmentTeam = B5WSA37RY8;
 						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -5079,7 +5077,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = B5WSA37RY8;
+				DEVELOPMENT_TEAM = 64P784C2S9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -5118,7 +5116,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = B5WSA37RY8;
+				DEVELOPMENT_TEAM = 64P784C2S9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				HEADER_SEARCH_PATHS = (
 					"\"$(SRCROOT)/ThirdParty/LibreSSL/include\"",
@@ -5542,7 +5540,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 138;
-				DEVELOPMENT_TEAM = B5WSA37RY8;
+				DEVELOPMENT_TEAM = 64P784C2S9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -5593,7 +5591,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 138;
-				DEVELOPMENT_TEAM = B5WSA37RY8;
+				DEVELOPMENT_TEAM = 64P784C2S9;
 				ENABLE_HARDENED_RUNTIME = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = "PJ_AUTOCONF=1";
 				HEADER_SEARCH_PATHS = "\"$(SRCROOT)/ThirdParty/PJSIP/include\"";
