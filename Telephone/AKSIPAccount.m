@@ -88,7 +88,7 @@ NS_ASSUME_NONNULL_END
 }
 
 - (BOOL)isRegistered {
-    return [self registrationStatus] / 100 == 2 && [self registrationExpireTime] != kAKSIPAccountRegistrationExpireTimeNotSpecified;
+    return [self registrationStatus] / 100 == 2 && [self registrationExpireTime] > 0;
 }
 
 - (void)setRegistered:(BOOL)value {
