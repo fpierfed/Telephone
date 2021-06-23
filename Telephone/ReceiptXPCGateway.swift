@@ -24,7 +24,7 @@ final class ReceiptXPCGateway {
     private let connection: NSXPCConnection
 
     init() {
-        connection = NSXPCConnection(serviceName: "com.tlphn.Telephone.ReceiptValidation")
+        connection = NSXPCConnection(serviceName: "org.fpierfed.Telephone.ReceiptValidation")
         connection.remoteObjectInterface = NSXPCInterface(with: ReceiptValidation.self)
         connection.resume()
     }

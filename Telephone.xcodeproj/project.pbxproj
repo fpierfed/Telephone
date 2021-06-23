@@ -5495,7 +5495,7 @@
 				DEVELOPMENT_TEAM = 64P784C2S9;
 				INFOPLIST_FILE = "AddressBookPlugIns/TelephoneAddressBookPhonePlugIn-Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Bundles";
-				PRODUCT_BUNDLE_IDENTIFIER = orf.fpierfed.TelephoneAddressBookPhonePlugIn;
+				PRODUCT_BUNDLE_IDENTIFIER = org.fpierfed.TelephoneAddressBookPhonePlugIn;
 				PRODUCT_NAME = TelephoneAddressBookPhonePlugIn;
 				WRAPPER_EXTENSION = bundle;
 			};
@@ -5510,7 +5510,7 @@
 				DEVELOPMENT_TEAM = 64P784C2S9;
 				INFOPLIST_FILE = "AddressBookPlugIns/TelephoneAddressBookPhonePlugIn-Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Bundles";
-				PRODUCT_BUNDLE_IDENTIFIER = orf.fpierfed.TelephoneAddressBookPhonePlugIn;
+				PRODUCT_BUNDLE_IDENTIFIER = org.fpierfed.TelephoneAddressBookPhonePlugIn;
 				PRODUCT_NAME = TelephoneAddressBookPhonePlugIn;
 				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = bundle;
@@ -5528,7 +5528,7 @@
 				GCC_OPTIMIZATION_LEVEL = 0;
 				INFOPLIST_FILE = "AddressBookPlugIns/TelephoneAddressBookSIPAddressPlugIn-Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Bundles";
-				PRODUCT_BUNDLE_IDENTIFIER = orf.fpierfed.TelephoneAddressBookSIPAddressPlugIn;
+				PRODUCT_BUNDLE_IDENTIFIER = org.fpierfed.TelephoneAddressBookSIPAddressPlugIn;
 				PRODUCT_NAME = TelephoneAddressBookSIPAddressPlugIn;
 				WRAPPER_EXTENSION = bundle;
 			};
@@ -5543,7 +5543,7 @@
 				DEVELOPMENT_TEAM = 64P784C2S9;
 				INFOPLIST_FILE = "AddressBookPlugIns/TelephoneAddressBookSIPAddressPlugIn-Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Bundles";
-				PRODUCT_BUNDLE_IDENTIFIER = orf.fpierfed.TelephoneAddressBookSIPAddressPlugIn;
+				PRODUCT_BUNDLE_IDENTIFIER = org.fpierfed.TelephoneAddressBookSIPAddressPlugIn;
 				PRODUCT_NAME = TelephoneAddressBookSIPAddressPlugIn;
 				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = bundle;

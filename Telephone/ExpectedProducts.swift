@@ -18,8 +18,8 @@
 
 struct ExpectedProducts {
     private let map = [
-        "com.tlphn.Telephone.iap.month": NSLocalizedString("Monthly", comment: "Product name."),
-        "com.tlphn.Telephone.iap.year": NSLocalizedString("Yearly", comment: "Product name.")
+        "org.fpierfed.Telephone.iap.month": NSLocalizedString("Monthly", comment: "Product name."),
+        "org.fpierfed.Telephone.iap.year": NSLocalizedString("Yearly", comment: "Product name.")
     ]
 
     var identifiers: Set<String> {

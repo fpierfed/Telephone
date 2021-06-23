@@ -27,9 +27,9 @@ let delegate = DefaultNSXPCListenerDelegate(
             origin: PKCS7SignatureValidation(
                 origin: ReceiptAttributesValidation(
                     origin: PurchaseReceiptAttributesValidation(
-                        identifiers: Set(["com.tlphn.Telephone.iap.month", "com.tlphn.Telephone.iap.year"])
+                        identifiers: Set(["org.fpierfed.Telephone.iap.month", "org.fpierfed.Telephone.iap.year"])
                     ),
-                    attributes: ReceiptAttributes(identifier: "com.tlphn.Telephone", guid: DeviceGUID().dataValue)
+                    attributes: ReceiptAttributes(identifier: "org.fpierfed.Telephone", guid: DeviceGUID().dataValue)
                 ),
                 certificate: certificate
             ),
